@@ -34,15 +34,15 @@ I'm a passionate developer who loves to build and create. Welcome to my GitHub p
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik02-07&show_icons=true&theme=radical)
 
 ## 🔥 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik02-07&layout=compact&theme=radical)
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratik02-07&theme=radical)
 
 ## 🤝 Connect with Me
 
@@ -55,6 +55,6 @@ I'm a passionate developer who loves to build and create. Welcome to my GitHub p
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
---- -->
+
 
 ⭐️ From [Pratik Patil](https://github.com/Pratik02-07) 
