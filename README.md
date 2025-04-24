@@ -1,0 +1,60 @@
+# Hi there 👋
+
+I'm a passionate developer who loves to build and create. Welcome to my GitHub profile!
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm always learning new technologies
+- 👯 I'm looking to collaborate on open-source projects
+- 💬 Ask me about anything related to development
+- 📫 How to reach me: [pratikpatil00005@gmai.com]
+- 😄 Pronouns: He/Him
+
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- HTML/CSS
+- JavaScript
+
+### Frameworks & Libraries
+- React
+- Node.js
+- Express
+- Django
+- Vite
+
+### Tools & Technologies
+- VS Code
+- Git
+- Github
+- MongoDB
+
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🔥 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-patil-6a3196258/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME) -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik02-07)
+<!-- 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+--- -->
+
+⭐️ From [Pratik Patil](https://github.com/Pratik02-07) 
