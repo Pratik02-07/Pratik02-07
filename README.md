@@ -7,7 +7,7 @@ I'm a passionate developer who loves to build and create. Welcome to my GitHub p
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm always learning new technologies
 - 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about anything related to development
+- 👨‍💻 Visit my portfolio https://pratikpatil07.netlify.app/
 - 📫 How to reach me: [pratikpatil00005@gmai.com]
 - 😄 Pronouns: He/Him
 
