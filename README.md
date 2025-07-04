@@ -1,51 +1,34 @@
-# Hi there 👋
+# 👋 Hi, I'm Pratik Patil
 
-I'm a passionate developer who loves to build and create. Welcome to my GitHub profile!
+Welcome to my coding portfolio!  
+I'm a passionate developer who loves to build, learn, and share.
 
-<!-- ## 🛠️ Skills
+---
 
-### Programming Languages
-- Python
-- HTML/CSS
-- JavaScript
+## 🚀 About Me
 
-### Frameworks & Libraries
-- React
-- Vite
+- 💡 Always exploring new tech
+- 🌱 Lifelong learner & problem solver
 
-### Tools & Technologies
-- VS Code
-- Git
-- Github
-- MySql
-- MongoDB
-- firebase
+---
 
--->
+## 🌐 Find Me Online
 
-## 📊 GitHub Stats
+- 🔗 [Portfolio Website](https://pratikpatil07.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-patil-6a3196258/)
+- 🐙 [GitHub](https://github.com/Pratik02-07)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik02-07&show_icons=true&theme=radical)
+---
 
-## 🔥 Top Languages
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik02-07&layout=compact&theme=radical)
+<!-- You can add your GitHub stats and streaks here! -->
 
-## 📈 GitHub Streak
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik02-07&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik02-07&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pratik02-07&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratik02-07&theme=radical)
+---
 
-## 🤝 Connect with Me
+Let's connect and build something amazing together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-patil-6a3196258/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME) -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik02-07)
-<!-- 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-⭐️ From [Pratik Patil](https://github.com/Pratik02-07) 
