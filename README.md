@@ -22,20 +22,16 @@ I'm a passionate developer who loves to build, learn, and share.
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Pratik02-07&show_icons=true&theme=tokyonight" alt="Pratik's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik02-07&layout=compact&theme=tokyonight" alt="Top Languages" />
-      <br>
-      <img src="https://streak-stats.demolab.com?user=Pratik02-07&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik02-07&show_icons=true&theme=tokyonight" alt="Pratik's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik02-07&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
+  <img src="https://streak-stats.demolab.com?user=Pratik02-07&theme=tokyonight" alt="GitHub Streak" width="400"/>
+
+</div>
 
 ---
 
 Let's connect and build something amazing together!
+
 
