@@ -2,16 +2,7 @@
 
 I'm a passionate developer who loves to build and create. Welcome to my GitHub profile!
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm always learning new technologies
-- 👯 I'm looking to collaborate on open-source projects
-- 👨‍💻 Visit my portfolio https://pratikpatil07.netlify.app/
-- 📫 How to reach me: [pratikpatil00005@gmai.com]
-- 😄 Pronouns: He/Him
-
-## 🛠️ Skills
+<!-- ## 🛠️ Skills
 
 ### Programming Languages
 - Python
@@ -20,17 +11,17 @@ I'm a passionate developer who loves to build and create. Welcome to my GitHub p
 
 ### Frameworks & Libraries
 - React
-- Node.js
-- Express
-- Django
 - Vite
 
 ### Tools & Technologies
 - VS Code
 - Git
 - Github
+- MySql
 - MongoDB
+- firebase
 
+-->
 
 ## 📊 GitHub Stats
 
