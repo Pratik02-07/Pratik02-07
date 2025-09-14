@@ -9,7 +9,7 @@ I'm a **Computer Science & Engineering** student and a passionate developer who 
 
 - 💡 Curious mind fueled by technology 
 - 🌱 Currently expanding skills in Backend Development and Databases
-- 🔧 - 🔧 Strong foundation in **Python** with growing interest in **GenAI**  
+- 🔧 Strong foundation in **Python** with growing interest in **GenAI**  
 
 ---
 
