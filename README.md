@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey there, I'm Pratik Patil  
 
-<!--
-**Pratik02-07/Pratik02-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a **Computer Science & Engineering** student and a passionate developer who loves solving problems, building projects, and exploring new technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 💡 Curious mind fueled by technology 
+- 🌱 Currently expanding skills in Backend Development and Databases
+- 🔧 - 🔧 Strong foundation in **Python** with growing interest in **GenAI**  
+
+---
+
+## 🌐 Connect With Me  
+
+- 🌍 [Portfolio](https://pratikpatil07.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-patil-6a3196258/)  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik02-07&show_icons=true&theme=dark" alt="Pratik's GitHub Stats" width="400"/>  
+
+</div>  
+
+---
+
+## ⚡ Fun Fact 
+
+I believe **every bug is just a hidden feature** waiting to be explored 😎
+
+---
+
+✨ Thanks for visiting my profile! Let’s connect and create something amazing together 🚀  
