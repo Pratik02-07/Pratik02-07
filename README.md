@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://pratikpatil07.netlify.app/" target="_blank">
+  <a href="https://pratikpatil.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pratik-patil-6a3196258/" target="_blank">
+  <a href="https://www.linkedin.com/in/pratikpatil007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pratikpatil00004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -24,12 +24,11 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Computer Science & Engineering** student passionate about building real-world solutions
-- 🌱 Currently expanding skills in **Backend Development**, **Databases**, and **GenAI**
+- 📖 Learning  GenAI, LLMs, and RAG pipelines 
 - 🔭 Working on projects to strengthen my portfolio
 - 🤝 Open to **internships**, **collaborations**, and **open-source contributions**
 - 📍 Based in **Maharashtra, India**
 - ⚡ Fun fact: *I believe every bug is just a hidden feature waiting to be explored* 😎
-
 ---
 
 ## 🛠️ Tech Stack
@@ -81,15 +80,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-| Status | Focus |
-|--------|-------|
-| 🔨 Building | Backend projects with REST APIs |
-| 📖 Learning | GenAI, LLMs, and RAG pipelines |
-| 🎯 Goal | Land my first internship/job as a fresher |
-
----
 
 ## 🤝 Let's Connect
 
