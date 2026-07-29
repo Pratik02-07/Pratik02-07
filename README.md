@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Pratik%20Patil&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Pratik%20Patil&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Software%20Engineer%20%7C%20GenAI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1a0b2e"/>
-<img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-6D28D9?style=flat-square&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-FFFFFF?style=flat-square&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-FFFFFF?style=flat-square&labelColor=1a0b2e"/>
 
 <br/><br/>
 
 <a href="https://pratikpatil.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-1a0b2e?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=vercel&logoColor=A78BFA"/>
 </a>
 <a href="https://www.linkedin.com/in/pratikpatil007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=linkedin&logoColor=A78BFA"/>
 </a>
 <a href="mailto:pratikpatil00004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a0b2e?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=gmail&logoColor=A78BFA"/>
 </a>
 <a href="https://github.com/Pratik02-07" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=github&logoColor=A78BFA"/>
 </a>
 
 </div>
@@ -69,7 +69,7 @@ I'm a Computer Science graduate who approaches engineering with a **product mind
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,docker,linux,vscode,postman&theme=dark"/>
 
 ---
 <!-- 
