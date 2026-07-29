@@ -4,22 +4,22 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-FFFFFF?style=flat-square&labelColor=1a0b2e"/>
-<img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-FFFFFF?style=flat-square&labelColor=1a0b2e"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1a0b2e&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-6D28D9?style=flat-square&labelColor=1a0b2e&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://pratikpatil.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=vercel&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/pratikpatil007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=linkedin&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:pratikpatil00004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=gmail&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Pratik02-07" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=1a0b2e&logo=github&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=github&logoColor=white"/>
 </a>
 
 </div>
