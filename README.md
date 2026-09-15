@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="c&text=Pratik%20Patil&fontSize=60&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Pratik%20Patil&fontSize=60&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%"/>
 
-<br>
 
+<a href="https://pratikpatil.tech">
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&labelColor=0F172A&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/pratikpatil007">
 <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&labelColor=0F172A&logo=linkedin&logoColor=white"/>
