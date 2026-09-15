@@ -52,7 +52,8 @@ engineer:
     - Infrastructure as Code
     - AWS Cloud Engineering
 
-  philosophy: "Build it. Automate it. Troubleshoot it. Make it repeatable."```
+  philosophy: "Build it. Automate it. Troubleshoot it. Make it repeatable."
+  ```
 
 I'm a Computer Science graduate who approaches engineering with a **product mindset** — I care as much about system design and reliability as I do about the feature itself. My work spans **backend engineering, AI/ML pipelines, and full-stack product development**, with hands-on experience shipping a production internship codebase, open-source tooling, and a portfolio of data-driven applications built on real datasets.
 
