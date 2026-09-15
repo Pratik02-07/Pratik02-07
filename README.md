@@ -1,46 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Pratik%20Patil&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Software%20Engineer%20%7C%20GenAI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Pratik%20Patil&fontSize=60&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1a0b2e&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-6D28D9?style=flat-square&labelColor=1a0b2e&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-2563EB?style=flat-square&labelColor=0F172A&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-2563EB?style=flat-square&labelColor=0F172A&logoColor=white"/>
 
-<br/><br/>
+<br><br>
 
-<a href="https://pratikpatil.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=vercel&logoColor=white"/>
+<a href="https://pratikpatil.tech">
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&labelColor=0F172A&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/pratikpatil007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/pratikpatil007">
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&labelColor=0F172A&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:pratikpatil00004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&labelColor=0F172A&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/Pratik02-07" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&labelColor=1a0b2e&logo=github&logoColor=white"/>
+
+<a href="https://github.com/Pratik02-07">
+<img src="https://img.shields.io/badge/GITHUB-2563EB?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-## 👨‍💻 About Me
+## ☁️ About Me
 
 ```yaml
 engineer:
   name: "Pratik Zunjarrao Patil"
-  role: "Data Analyst · Software Engineer · GenAI Enthusiast"
+  role: "Aspiring Cloud Engineer"
+
   focus:
-    - Designing and shipping applications with production-grade architecture
-    - Building Retrieval-Augmented Generation (RAG) pipelines and LLM-powered agents
-    - Engineering data pipelines and analytics systems that drive real decisions
-    - Writing clean, testable, CI/CD-backed code
-  philosophy: "Ship systems that are correct, observable, and built to scale — not demos."
-```
+    - AWS Cloud Infrastructure
+    - Infrastructure as Code
+    - CI/CD Automation
+    - Docker & Containerization
+    - Linux & Bash
+    - Networking
+    - Cloud Troubleshooting
+
+  currently_learning:
+    - Terraform
+    - Infrastructure as Code
+    - AWS Cloud Engineering
+
+  philosophy: "Build it. Automate it. Troubleshoot it. Make it repeatable."```
 
 I'm a Computer Science graduate who approaches engineering with a **product mindset** — I care as much about system design and reliability as I do about the feature itself. My work spans **backend engineering, AI/ML pipelines, and full-stack product development**, with hands-on experience shipping a production internship codebase, open-source tooling, and a portfolio of data-driven applications built on real datasets.
 
